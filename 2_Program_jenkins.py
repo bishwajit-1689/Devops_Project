@@ -9,6 +9,6 @@ for i in variable:
 
 ## Updated after Git changes done !!
 
-# for j in range(10):
+for j in range(10):
 	
-#  	print("This is to be Printed 10 Times !!")
+ 	print("This is to be Printed 10 Times !!")
