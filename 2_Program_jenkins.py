@@ -12,3 +12,7 @@ for i in variable:
 for j in range(10):
 	
  	print("This is to be Printed 10 Times !!")
+
+## Updating Third Commit in the Git Hub
+
+print("This is the third commit in Git !!")
