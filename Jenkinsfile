@@ -8,7 +8,7 @@ pipeline {
 
 	stages {
 
-		Stage('Say hello') {
+		Stage('hello') {
 
 			steps {
 
