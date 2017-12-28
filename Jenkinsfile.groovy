@@ -14,14 +14,14 @@ pipeline {
 
 	stages {
 
-		stage('Now Understood') {
+		stage ('Now Understood') {
 
 			steps {
 
 				echo 'At last Hello World !!'
 			}
 
-		stage(' Execute Shell '){
+		stage (' Execute Shell '){
 
 			steps {
 
